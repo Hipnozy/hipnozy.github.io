@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://jeanlourenco.com/"/>
-  <updated>2017-04-23T18:45:18.455Z</updated>
+  <updated>2017-04-23T19:14:53.073Z</updated>
   <id>http://jeanlourenco.com/</id>
   
   <author>
@@ -16,50 +16,27 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>my test post</title>
-    <link href="http://jeanlourenco.com/2017/04/23/my-test-post/"/>
-    <id>http://jeanlourenco.com/2017/04/23/my-test-post/</id>
-    <published>2017-04-23T18:28:23.000Z</published>
-    <updated>2017-04-23T18:45:18.455Z</updated>
+    <title>Novo blog!</title>
+    <link href="http://jeanlourenco.com/2017/04/23/Novo-blog/"/>
+    <id>http://jeanlourenco.com/2017/04/23/Novo-blog/</id>
+    <published>2017-04-23T19:02:42.000Z</published>
+    <updated>2017-04-23T19:14:53.073Z</updated>
     
-    <content type="html"><![CDATA[<p>Hey Jude<br><a id="more"></a><br>Mussum Ipsum, cacilds vidis litro abertis. Si u mundo tá muito paradis? Toma um mé que o mundo vai girarzis! Delegadis gente finis, bibendum egestas augue arcu ut est. Suco de cevadiss deixa as pessoas mais interessantis. Admodum accumsan disputationi eu sit. Vide electram sadipscing et per.</p>
-<p>Todo mundo vê os porris que eu tomo, mas ninguém vê os tombis que eu levo! Mé faiz elementum girarzis, nisi eros vermeio. Leite de capivaris, leite de mula manquis sem cabeça.  Paisis, filhis, espiritis santis.</p>
-<p>Diuretics paradis num copo é motivis de denguis. Interessantiss quisso pudia ce receita de bolis, mais bolis eu num gostis. Casamentiss faiz malandris se pirulitá. Em pé sem cair, deitado sem dormir, sentado sem cochilar e fazendo pose.</p>
+    <content type="html"><![CDATA[<p>Ou será apenas uma ressurreição?<br><a id="more"></a></p>
+<p>Olá estranho, tudo certo?</p>
+<p>Depois de várias tentivas de manter um blog (e falhando miseravelmente), resolvi tentar mais uma vez. Mudei o tema do blog para algo mais simples e que não destrua sua franquia de internet ao tentar abrir uma imagem gigante no background.</p>
+<h2 id="Mas-o-que-muda"><a href="#Mas-o-que-muda" class="headerlink" title="Mas o que muda?"></a>Mas o que muda?</h2><p>Vou falar sobre as mais diversas tecnologias de desenvolvimento de software, e as vezes até algo sobre deep learning. Tentarei manter alguma cadência de posts que não posso prometer, mas algo a cada semana seria o ideal.</p>
+<p>Até o próximo post :)</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Hey Jude&lt;br&gt;
+      &lt;p&gt;Ou será apenas uma ressurreição?&lt;br&gt;
     
     </summary>
     
     
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://jeanlourenco.com/2017/04/15/hello-world/"/>
-    <id>http://jeanlourenco.com/2017/04/15/hello-world/</id>
-    <published>2017-04-15T16:57:20.152Z</published>
-    <updated>2017-04-15T16:57:20.156Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
-    
-    </summary>
-    
+      <category term="meta" scheme="http://jeanlourenco.com/tags/meta/"/>
     
   </entry>
   
